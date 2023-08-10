@@ -15,5 +15,7 @@ The script will find the largest log file in the  directory and truncate it to 1
 - Before using this script, ensure that you have a backup of your important log files.
 
 
+## Screenshot of running script 
+
 ![Screenshot (306)](https://github.com/SakibZa/BashFile/assets/91986957/e3de50f6-0cda-4b30-82da-342d718bfa00)
 
